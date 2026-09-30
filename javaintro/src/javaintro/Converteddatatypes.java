@@ -10,7 +10,6 @@ public class Converteddatatypes {
 	int I1=65;
 	char c1=(char)I1;
 	
-
 	public static void main(String[] args) {
 		Converteddatatypes c =new Converteddatatypes();
 		System.out.println("int:"+c.i);
